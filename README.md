@@ -1,6 +1,6 @@
 <h1><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" height="30px" style="vertical-align: middle;" /> Amazon-Clone</h1>
 
-Designed the Amazon Clone with Apna College assistance while learning frontend web development.
+Designed the Amazon Clone with Apna College assistance while learning frontend web development using HTML and CSS.
 
 # Graphical User Interface (GUI)
 
